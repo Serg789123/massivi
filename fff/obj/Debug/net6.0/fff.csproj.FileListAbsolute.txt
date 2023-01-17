@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\fyf\fff\obj\Debug\net6.0\fff.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\fyf\fff\obj\Debug\net6.0\fff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\fyf\fff\obj\Debug\net6.0\fff.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\fyf\fff\obj\Debug\net6.0\fff.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\fyf\fff\obj\Debug\net6.0\fff.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\fyf\fff\bin\Debug\net6.0\fff.exe
+C:\Users\Sergey\Desktop\fyf\fff\bin\Debug\net6.0\fff.deps.json
+C:\Users\Sergey\Desktop\fyf\fff\bin\Debug\net6.0\fff.runtimeconfig.json
+C:\Users\Sergey\Desktop\fyf\fff\bin\Debug\net6.0\fff.dll
+C:\Users\Sergey\Desktop\fyf\fff\bin\Debug\net6.0\fff.pdb
+C:\Users\Sergey\Desktop\fyf\fff\obj\Debug\net6.0\fff.dll
+C:\Users\Sergey\Desktop\fyf\fff\obj\Debug\net6.0\refint\fff.dll
+C:\Users\Sergey\Desktop\fyf\fff\obj\Debug\net6.0\fff.pdb
+C:\Users\Sergey\Desktop\fyf\fff\obj\Debug\net6.0\fff.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\fyf\fff\obj\Debug\net6.0\ref\fff.dll
